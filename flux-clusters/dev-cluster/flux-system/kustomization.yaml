@@ -5,3 +5,6 @@ resources:
 - gotk-sync.yaml
 - mydeployment.yaml
 - wave2-namespace.yaml
+- app-configmap.yaml
+- app-secret.yam
+- network-policy.yaml
