@@ -4,3 +4,5 @@ resources:
   - flux-system
   - nginx-deployment.yaml
   - wave2-namespace.yaml
+  - cnfigmap.yaml
+  
