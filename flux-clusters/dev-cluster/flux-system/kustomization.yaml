@@ -6,5 +6,5 @@ resources:
 - mydeployment.yaml
 - wave2-namespace.yaml
 - app-configmap.yaml
-- app-secret.yam
+- app-secret.yaml
 - network-policy.yaml
